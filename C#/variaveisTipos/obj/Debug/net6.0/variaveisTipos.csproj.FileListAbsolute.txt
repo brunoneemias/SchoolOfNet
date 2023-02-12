@@ -1,0 +1,15 @@
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\bin\Debug\net6.0\variaveisTipos.exe
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\bin\Debug\net6.0\variaveisTipos.deps.json
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\bin\Debug\net6.0\variaveisTipos.runtimeconfig.json
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\bin\Debug\net6.0\variaveisTipos.dll
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\bin\Debug\net6.0\variaveisTipos.pdb
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\obj\Debug\net6.0\variaveisTipos.csproj.AssemblyReference.cache
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\obj\Debug\net6.0\variaveisTipos.GeneratedMSBuildEditorConfig.editorconfig
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\obj\Debug\net6.0\variaveisTipos.AssemblyInfoInputs.cache
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\obj\Debug\net6.0\variaveisTipos.AssemblyInfo.cs
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\obj\Debug\net6.0\variaveisTipos.csproj.CoreCompileInputs.cache
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\obj\Debug\net6.0\variaveisTipos.dll
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\obj\Debug\net6.0\refint\variaveisTipos.dll
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\obj\Debug\net6.0\variaveisTipos.pdb
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\obj\Debug\net6.0\variaveisTipos.genruntimeconfig.cache
+B:\Visual Studio\SchoolOfNet\C#\variaveisTipos\obj\Debug\net6.0\ref\variaveisTipos.dll
