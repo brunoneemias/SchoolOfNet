@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.Tuplas", "6.Tuplas.csproj", "{EFC16BCE-CA32-4710-AB07-5E5A504B6608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC16BCE-CA32-4710-AB07-5E5A504B6608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC16BCE-CA32-4710-AB07-5E5A504B6608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC16BCE-CA32-4710-AB07-5E5A504B6608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC16BCE-CA32-4710-AB07-5E5A504B6608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3FC5709-10AF-44A4-93C7-B9831D5A4858}
+	EndGlobalSection
+EndGlobal

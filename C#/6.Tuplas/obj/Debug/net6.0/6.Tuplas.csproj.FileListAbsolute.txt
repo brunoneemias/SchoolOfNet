@@ -1,0 +1,15 @@
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\bin\Debug\net6.0\6.Tuplas.exe
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\bin\Debug\net6.0\6.Tuplas.deps.json
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\bin\Debug\net6.0\6.Tuplas.runtimeconfig.json
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\bin\Debug\net6.0\6.Tuplas.dll
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\bin\Debug\net6.0\6.Tuplas.pdb
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\obj\Debug\net6.0\6.Tuplas.csproj.AssemblyReference.cache
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\obj\Debug\net6.0\6.Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\obj\Debug\net6.0\6.Tuplas.AssemblyInfoInputs.cache
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\obj\Debug\net6.0\6.Tuplas.AssemblyInfo.cs
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\obj\Debug\net6.0\6.Tuplas.csproj.CoreCompileInputs.cache
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\obj\Debug\net6.0\6.Tuplas.dll
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\obj\Debug\net6.0\refint\6.Tuplas.dll
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\obj\Debug\net6.0\6.Tuplas.pdb
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\obj\Debug\net6.0\6.Tuplas.genruntimeconfig.cache
+B:\Visual Studio\SchoolOfNet\C#\6.Tuplas\obj\Debug\net6.0\ref\6.Tuplas.dll

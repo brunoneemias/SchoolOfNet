@@ -1,0 +1,15 @@
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\bin\Debug\net6.0\5.Filas.exe
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\bin\Debug\net6.0\5.Filas.deps.json
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\bin\Debug\net6.0\5.Filas.runtimeconfig.json
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\bin\Debug\net6.0\5.Filas.dll
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\bin\Debug\net6.0\5.Filas.pdb
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\obj\Debug\net6.0\5.Filas.csproj.AssemblyReference.cache
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\obj\Debug\net6.0\5.Filas.GeneratedMSBuildEditorConfig.editorconfig
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\obj\Debug\net6.0\5.Filas.AssemblyInfoInputs.cache
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\obj\Debug\net6.0\5.Filas.AssemblyInfo.cs
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\obj\Debug\net6.0\5.Filas.csproj.CoreCompileInputs.cache
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\obj\Debug\net6.0\5.Filas.dll
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\obj\Debug\net6.0\refint\5.Filas.dll
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\obj\Debug\net6.0\5.Filas.pdb
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\obj\Debug\net6.0\5.Filas.genruntimeconfig.cache
+B:\Visual Studio\SchoolOfNet\C#\5.Filas\obj\Debug\net6.0\ref\5.Filas.dll
