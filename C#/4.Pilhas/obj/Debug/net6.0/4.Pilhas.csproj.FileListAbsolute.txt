@@ -1,0 +1,15 @@
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\bin\Debug\net6.0\4.Pilhas.exe
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\bin\Debug\net6.0\4.Pilhas.deps.json
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\bin\Debug\net6.0\4.Pilhas.runtimeconfig.json
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\bin\Debug\net6.0\4.Pilhas.dll
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\bin\Debug\net6.0\4.Pilhas.pdb
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\obj\Debug\net6.0\4.Pilhas.csproj.AssemblyReference.cache
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\obj\Debug\net6.0\4.Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\obj\Debug\net6.0\4.Pilhas.AssemblyInfoInputs.cache
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\obj\Debug\net6.0\4.Pilhas.AssemblyInfo.cs
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\obj\Debug\net6.0\4.Pilhas.csproj.CoreCompileInputs.cache
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\obj\Debug\net6.0\4.Pilhas.dll
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\obj\Debug\net6.0\refint\4.Pilhas.dll
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\obj\Debug\net6.0\4.Pilhas.pdb
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\obj\Debug\net6.0\4.Pilhas.genruntimeconfig.cache
+B:\Visual Studio\SchoolOfNet\C#\4.Pilhas\obj\Debug\net6.0\ref\4.Pilhas.dll

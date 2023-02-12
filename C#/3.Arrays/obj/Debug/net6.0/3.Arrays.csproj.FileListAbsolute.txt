@@ -1,0 +1,15 @@
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\bin\Debug\net6.0\3.Arrays.exe
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\bin\Debug\net6.0\3.Arrays.deps.json
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\bin\Debug\net6.0\3.Arrays.runtimeconfig.json
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\bin\Debug\net6.0\3.Arrays.dll
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\bin\Debug\net6.0\3.Arrays.pdb
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\obj\Debug\net6.0\3.Arrays.csproj.AssemblyReference.cache
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\obj\Debug\net6.0\3.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\obj\Debug\net6.0\3.Arrays.AssemblyInfoInputs.cache
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\obj\Debug\net6.0\3.Arrays.AssemblyInfo.cs
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\obj\Debug\net6.0\3.Arrays.csproj.CoreCompileInputs.cache
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\obj\Debug\net6.0\3.Arrays.dll
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\obj\Debug\net6.0\refint\3.Arrays.dll
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\obj\Debug\net6.0\3.Arrays.pdb
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\obj\Debug\net6.0\3.Arrays.genruntimeconfig.cache
+B:\Visual Studio\SchoolOfNet\C#\3.Arrays\obj\Debug\net6.0\ref\3.Arrays.dll
