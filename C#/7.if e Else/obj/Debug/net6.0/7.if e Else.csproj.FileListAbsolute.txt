@@ -1,0 +1,15 @@
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\bin\Debug\net6.0\7.if e Else.exe
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\bin\Debug\net6.0\7.if e Else.deps.json
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\bin\Debug\net6.0\7.if e Else.runtimeconfig.json
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\bin\Debug\net6.0\7.if e Else.dll
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\bin\Debug\net6.0\7.if e Else.pdb
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\obj\Debug\net6.0\7.if e Else.csproj.AssemblyReference.cache
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\obj\Debug\net6.0\7.if e Else.GeneratedMSBuildEditorConfig.editorconfig
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\obj\Debug\net6.0\7.if e Else.AssemblyInfoInputs.cache
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\obj\Debug\net6.0\7.if e Else.AssemblyInfo.cs
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\obj\Debug\net6.0\7.if e Else.csproj.CoreCompileInputs.cache
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\obj\Debug\net6.0\7.if e Else.dll
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\obj\Debug\net6.0\refint\7.if e Else.dll
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\obj\Debug\net6.0\7.if e Else.pdb
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\obj\Debug\net6.0\7.if e Else.genruntimeconfig.cache
+B:\Visual Studio\SchoolOfNet\C#\7.if e Else\obj\Debug\net6.0\ref\7.if e Else.dll
